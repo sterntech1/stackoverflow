@@ -7,6 +7,10 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
+### Testing Fork
+
+My name is Michael Stern and I graduated with a bachelor's degree in Industrial Engineer in December. However, I always had a passion for coding and data visualization and realize that data science makes me happy. I am excited to be taking this Udacity course. 
+
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
